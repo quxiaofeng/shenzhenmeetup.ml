@@ -1,4 +1,4 @@
 ---
 layout: pdf
 ---
-<iframe src="{{ site.url }}/docs/julia-shenzhen-meetup-talk-by-quxiaofeng.pdf" width="100%" height="100%"></iframe>
+<iframe src="{{ site.url }}/docs/julia-shenzhen-meetup-talk-by-quxiaofeng.pdf" width="100%" height="1080"></iframe>
